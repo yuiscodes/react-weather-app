@@ -24,7 +24,7 @@ export default function App() {
             rel="noreferrer"
           >
             Github
-          </a>
+          </a> and hosted on <a href="https://superlative-fairy-51011a.netlify.app/"  target="_blank" rel="noreferrer">Netlify</a>
         </footer>
       </div>
     </div>
