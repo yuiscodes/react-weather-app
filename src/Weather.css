@@ -12,7 +12,6 @@
   line-height: 26px;
   font-weight: 400;
   margin: 20px 0 0 0;
-
 }
 
 .Weather ul {
@@ -28,24 +27,25 @@
   list-style-type: none;
 }
 
-.Weather img {
+.Weather canvas {
   display: inline-block;
-  height: 60px;
-  vertical-align: top;
-  width: 60px;
+  margin-top: 5px;
+
 }
 
 .Weather .temperature {
   font-weight: 400;
-  font-size: 48px;
+  font-size: 45px;
   line-height: 56px;
   margin: 0 0 0 10px;
+  padding: 0;
+  vertical-align: top;
 }
 
 .Weather .unit {
-    font-size: 16px;
-    line-height: 24px;
-    position: relative;
-    top: -22px;
-    line-height: 1;
+  font-size: 16px;
+  line-height: 24px;
+  position: relative;
+  top: -22px;
+  line-height: 1;
 }
